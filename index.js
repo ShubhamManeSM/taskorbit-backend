@@ -40,3 +40,5 @@ app.listen(PORT, () => {
   console.log(`🚀 TaskOrbit API running on port ${PORT}`);
 });
 
+module.exports = app;
+
